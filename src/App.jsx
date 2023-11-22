@@ -12,7 +12,6 @@ function App() {
       <h1>Exerício React-Redux(Simples)</h1>
       <div className='linha'>
         <Intervalo></Intervalo>
-       
       </div>
       <div className='linha'>
         <Media></Media>

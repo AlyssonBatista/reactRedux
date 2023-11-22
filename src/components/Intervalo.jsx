@@ -1,6 +1,6 @@
 import React from 'react'
-import Card from './card'
-import './intervalo.css'
+import Card from './Card'
+import './Intervalo.css'
 
 
 const Intervalo = () => {
